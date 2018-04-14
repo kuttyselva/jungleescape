@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">minion kutty</string>
+    <string name="tod">TODO</string>
+    <string name="tdo">TODO</string>
+    <string name="too">TODO</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="on">TODO</string>
+    <string name="df">TODO</string>
+    <string name="k">TODO</string>
+
+</resources>
